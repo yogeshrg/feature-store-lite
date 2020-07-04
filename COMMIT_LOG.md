@@ -98,3 +98,4 @@
 ## 2020-03-22 22:42:01 - feat(data): implement data module (10/20)
 ## 2020-05-23 15:22:22 - feat(build): add build endpoint (4/20)
 ## 2020-06-15 11:59:53 - feat(docs): add docs endpoint
+## 2020-07-04 18:15:04 - feat(config): add config support (18/20)
