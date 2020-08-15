@@ -194,3 +194,4 @@
 ## 2020-06-15 11:59:53 - feat(docs): add docs endpoint
 ## 2020-07-04 18:15:04 - feat(config): add config support (18/20)
 ## 2020-07-12 09:07:52 - feat(core): add core support (8/20)
+## 2020-08-15 16:11:32 - feat(log): add log endpoint (17/20)
