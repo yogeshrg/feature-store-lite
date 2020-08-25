@@ -289,3 +289,4 @@
 ## 2020-07-04 18:15:04 - feat(config): add config support (18/20)
 ## 2020-07-12 09:07:52 - feat(core): add core support (8/20)
 ## 2020-08-15 16:11:32 - feat(log): add log endpoint (17/20)
+## 2020-08-25 13:11:17 - feat(auth): implement auth feature
