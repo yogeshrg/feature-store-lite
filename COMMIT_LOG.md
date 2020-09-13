@@ -9,3 +9,4 @@
 ## 2020-08-15 16:11:32 - feat(log): add log endpoint (17/20)
 ## 2020-08-25 13:11:17 - feat(auth): implement auth feature
 ## 2020-09-06 23:31:41 - feat(cache): implement cache feature (2/20)
+## 2020-09-13 18:46:33 - feat(cache): implement cache module (9/20)
