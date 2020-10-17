@@ -10,3 +10,4 @@
 ## 2020-08-25 13:11:17 - feat(auth): implement auth feature
 ## 2020-09-06 23:31:41 - feat(cache): implement cache feature (2/20)
 ## 2020-09-13 18:46:33 - feat(cache): implement cache module (9/20)
+## 2020-10-17 16:48:57 - feat(ui): create ui handler (4/20)
