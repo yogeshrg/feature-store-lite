@@ -200,3 +200,4 @@
 ## 2020-09-13 18:46:33 - feat(cache): implement cache module (9/20)
 ## 2020-10-17 16:48:57 - feat(ui): create ui handler (4/20)
 ## 2020-11-14 09:32:27 - feat(model): add model support (12/20)
+## 2020-12-05 09:56:05 - feat(infra): implement infra module (4/20)
