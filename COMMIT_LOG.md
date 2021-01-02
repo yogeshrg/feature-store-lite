@@ -203,3 +203,4 @@
 ## 2020-12-05 09:56:05 - feat(infra): implement infra module (4/20)
 ## 2021-01-02 09:51:05 - feat(metric): implement metric feature (4/20)
 ## 2021-01-02 09:58:01 - feat(infra): implement infra feature (10/20)
+## 2021-01-02 22:04:21 - feat(core): add core support (16/20)
