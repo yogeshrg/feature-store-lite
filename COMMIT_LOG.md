@@ -18,3 +18,4 @@
 ## 2021-01-02 22:04:21 - feat(core): add core support (16/20)
 ## 2021-02-13 21:49:08 - feat(db): add db endpoint (14/20)
 ## 2021-02-22 16:53:19 - feat(auth): implement auth module
+## 2021-03-07 18:38:38 - feat(config): add config endpoint (14/20)
