@@ -114,3 +114,4 @@
 ## 2021-02-22 16:53:19 - feat(auth): implement auth module
 ## 2021-03-07 18:38:38 - feat(config): add config endpoint (14/20)
 ## 2021-04-10 18:58:56 - feat(metric): implement metric module (8/20)
+## 2021-04-25 22:37:41 - feat(cache): add cache endpoint (16/20)
