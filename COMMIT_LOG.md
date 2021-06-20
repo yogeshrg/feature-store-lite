@@ -306,3 +306,4 @@
 ## 2021-05-16 19:01:06 - feat(security): implement security feature (8/20)
 ## 2021-06-03 19:33:46 - feat(deploy): implement deploy feature
 ## 2021-06-12 20:39:27 - feat(docs): create docs handler (8/20)
+## 2021-06-20 15:46:46 - feat(cache): create cache handler (16/20)
