@@ -309,3 +309,4 @@
 ## 2021-06-20 15:46:46 - feat(cache): create cache handler (16/20)
 ## 2021-07-31 20:38:23 - feat(core): create core handler (18/20)
 ## 2021-08-01 12:49:44 - feat(docs): add docs support (12/20)
+## 2021-08-15 20:52:29 - feat(cache): add cache support (4/20)
