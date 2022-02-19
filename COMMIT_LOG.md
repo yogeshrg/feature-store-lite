@@ -314,3 +314,4 @@
 ## 2021-11-13 10:50:09 - feat(auth): create auth handler (15/20)
 ## 2022-01-15 21:54:09 - feat(queue): implement queue module (16/20)
 ## 2022-01-30 12:21:10 - feat(metric): add metric endpoint (12/20)
+## 2022-02-19 14:48:56 - feat(model): add model support (2/20)
