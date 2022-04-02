@@ -316,3 +316,4 @@
 ## 2022-01-30 12:21:10 - feat(metric): add metric endpoint (12/20)
 ## 2022-02-19 14:48:56 - feat(model): add model support (2/20)
 ## 2022-02-26 09:28:08 - feat(worker): create worker handler (17/20)
+## 2022-04-02 10:43:11 - feat(monitor): add monitor support (12/20)
