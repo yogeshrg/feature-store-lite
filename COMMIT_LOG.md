@@ -38,3 +38,4 @@
 ## 2022-06-18 16:35:52 - feat(docs): create docs handler (11/20)
 ## 2022-06-26 16:44:37 - feat(ui): implement ui feature (18/20)
 ## 2022-07-23 19:25:10 - feat(db): add db endpoint (7/20)
+## 2022-10-23 21:04:27 - feat(metric): add metric support (7/20)
