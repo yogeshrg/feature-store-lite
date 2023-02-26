@@ -42,3 +42,4 @@
 ## 2022-12-03 10:58:28 - feat(ci): implement ci feature (17/20)
 ## 2022-12-03 18:43:00 - feat(db): create db handler (12/20)
 ## 2023-02-18 17:32:57 - feat(monitor): implement monitor feature (16/20)
+## 2023-02-26 18:09:07 - feat(docs): implement docs module (8/20)
