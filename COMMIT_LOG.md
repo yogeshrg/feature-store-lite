@@ -236,3 +236,4 @@
 ## 2023-06-04 12:31:12 - feat(ui): implement ui feature (18/20)
 ## 2023-07-15 23:28:51 - feat(config): implement config feature (5/20)
 ## 2023-07-16 15:08:53 - feat(metric): add metric support (6/20)
+## 2023-09-03 19:49:53 - feat(api): create api handler (5/20)
