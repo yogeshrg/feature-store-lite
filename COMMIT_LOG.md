@@ -50,3 +50,4 @@
 ## 2023-07-16 15:08:53 - feat(metric): add metric support (6/20)
 ## 2023-09-03 19:49:53 - feat(api): create api handler (5/20)
 ## 2023-10-15 23:43:48 - feat(db): add db support (4/20)
+## 2023-10-21 15:50:21 - feat(model): create model handler (3/20)
