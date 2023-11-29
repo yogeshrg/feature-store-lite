@@ -334,3 +334,4 @@
 ## 2023-10-15 23:43:48 - feat(db): add db support (4/20)
 ## 2023-10-21 15:50:21 - feat(model): create model handler (3/20)
 ## 2023-11-25 21:27:36 - feat(docs): add docs endpoint (19/20)
+## 2023-11-29 13:32:43 - feat(metric): implement metric feature
