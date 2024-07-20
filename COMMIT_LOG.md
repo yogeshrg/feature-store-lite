@@ -60,3 +60,4 @@
 ## 2024-04-28 23:56:30 - feat(db): create db handler (14/20)
 ## 2024-05-19 13:05:20 - feat(monitor): implement monitor feature (1/20)
 ## 2024-06-23 18:32:08 - feat(infra): add infra endpoint (14/20)
+## 2024-07-20 19:51:01 - feat(cache): add cache support (12/20)
