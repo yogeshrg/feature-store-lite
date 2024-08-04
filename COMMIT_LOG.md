@@ -343,3 +343,4 @@
 ## 2024-05-19 13:05:20 - feat(monitor): implement monitor feature (1/20)
 ## 2024-06-23 18:32:08 - feat(infra): add infra endpoint (14/20)
 ## 2024-07-20 19:51:01 - feat(cache): add cache support (12/20)
+## 2024-08-04 16:51:52 - feat(api): implement api feature (2/20)
