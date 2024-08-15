@@ -62,3 +62,4 @@
 ## 2024-06-23 18:32:08 - feat(infra): add infra endpoint (14/20)
 ## 2024-07-20 19:51:01 - feat(cache): add cache support (12/20)
 ## 2024-08-04 16:51:52 - feat(api): implement api feature (2/20)
+## 2024-08-15 16:01:11 - feat(ui): create ui handler
