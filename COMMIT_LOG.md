@@ -253,3 +253,4 @@
 ## 2024-08-15 16:01:11 - feat(ui): create ui handler
 ## 2024-09-08 20:56:55 - feat(config): add config support (9/20)
 ## 2024-09-14 11:32:08 - feat(worker): create worker handler (9/20)
+## 2024-09-14 13:13:18 - feat(alert): add alert endpoint (19/20)
