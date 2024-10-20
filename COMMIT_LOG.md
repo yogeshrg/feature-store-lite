@@ -350,3 +350,4 @@
 ## 2024-09-14 13:13:18 - feat(alert): add alert endpoint (19/20)
 ## 2024-10-05 12:18:20 - feat(alert): create alert handler (18/20)
 ## 2024-10-20 11:30:14 - feat(monitor): create monitor handler (1/20)
+## 2024-10-20 12:39:05 - feat(db): add db support (17/20)
