@@ -258,3 +258,4 @@
 ## 2024-10-20 11:30:14 - feat(monitor): create monitor handler (1/20)
 ## 2024-10-20 12:39:05 - feat(db): add db support (17/20)
 ## 2024-11-07 19:37:55 - feat(api): implement api feature
+## 2024-11-23 20:03:34 - feat(cache): add cache endpoint (15/20)
