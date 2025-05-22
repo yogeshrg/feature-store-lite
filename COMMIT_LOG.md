@@ -77,3 +77,4 @@
 ## 2025-03-21 15:30:13 - feat(alert): add alert support
 ## 2025-03-23 13:23:39 - feat(api): add api support (19/20)
 ## 2025-03-29 11:12:43 - feat(test): add test endpoint (3/20)
+## 2025-05-22 17:47:11 - feat(data): add data support
