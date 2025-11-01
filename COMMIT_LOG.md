@@ -177,3 +177,4 @@
 ## 2025-08-05 11:09:14 - feat(ui): add ui endpoint
 ## 2025-08-23 09:56:38 - feat(queue): create queue handler (3/20)
 ## 2025-09-14 21:04:55 - feat(queue): create queue handler (9/20)
+## 2025-11-01 10:30:15 - feat(core): add core support (8/20)
